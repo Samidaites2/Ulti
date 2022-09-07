@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/TeamUltroid/Ultroid.git"
-DIR="/root/TeamUltroid"
+REPO="https://github.com/Samidaites2/Ulti.git"
+DIR="/root/Samidaites2"
 
 spinner(){
     local pid=$!
